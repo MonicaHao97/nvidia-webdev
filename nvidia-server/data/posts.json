@@ -1,0 +1,35 @@
+[
+    {
+        "_id": "1",
+        "name": "Apple watch3",
+        "title": "Buy my IWatch at low price!",
+        "description": "Iwatch is good",
+        "contact": "danielaaa@gmail.com",
+        "location": "San Jose, CA",
+        "price": 100,
+        "condition": "new",
+        "pictures": ["../../../images/java-icon.png", "../../../images/js-icon.png"]
+    },
+    {
+        "_id": "2",
+        "name": "Iphone",
+        "title": "Buy my Iphone at low price!",
+        "description": "Iphone is good",
+        "contact": "danielaaa@outlook.com",
+        "location": "Los Angeles, CA",
+        "price": 200,
+        "condition": "old",
+        "pictures": ["../../../images/jquery-icon.png", "../../../images/nasa-icon.jpeg"]
+    },
+    {
+        "_id": "3",
+        "name": "Table",
+        "title": "Buy my table at low price!",
+        "description": "My table is good",
+        "contact": "danielaaa@hotmail.com",
+        "location": "Boston, MA",
+        "price": 20,
+        "condition": "renewed",
+        "pictures": ["../../../images/react-blue.png", "../../../images/react-icon.png"]
+    }
+]
