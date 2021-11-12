@@ -67,6 +67,7 @@ This website has four pages:
 * Authentification Systems (Sign-up/Log-in)
 * Allow Registered Users to Bookmark Posts
 * Edit/Delete/Comment on a Post
+* Styling (ex. add banner/navigation menu in Home Pgae)
 
 ## Author
 
