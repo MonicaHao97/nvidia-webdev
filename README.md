@@ -27,6 +27,9 @@ This website has four pages:
 ## Demo
 
 ### Home Page
+### Post Page
+### Results Page
+### Details Page
 
 ## Author
 
