@@ -27,7 +27,7 @@ const AddPostScreen = () => {
         newPost.pictures = image
         setPost(newPost)
         console.log(pictures)
-        postNewPost(dispatch, post,);
+        postNewPost(dispatch, post);
         navigate('/home');
     }
 
